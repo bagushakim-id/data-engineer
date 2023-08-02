@@ -6,7 +6,7 @@ Membuat widetable untuk user berdasarkan dari berbagai sumber data
 
 ## Table of Contents
 
-- [Table Location](#Create-Table-Location)
+- [Create Table Location](#Table-Location)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
@@ -14,9 +14,12 @@ Membuat widetable untuk user berdasarkan dari berbagai sumber data
 - [License](#license)
 - [Contact](#contact)
 
-## Create-Table-Location
+## Table-Location
 
-Provide step-by-step instructions on how to install your project and get it running.
+1. I create CTE to take the province, city, and district code.
+2. Since the data types were varchar, so I use left syntax to take the code for each province, city, and district code.
+3. After that, I have join the CTE to make it more complete with the total data was 65 row. It based on the total of the district that have 65 distric.
+4. Because this table will be used in the widetable, so I have to change the code that uses comma to space then make it to int in order have the same data type with the fact table.
 
 ## Usage
 
