@@ -2,7 +2,11 @@
 
 ## Description
 
-Membuat widetable untuk user berdasarkan dari berbagai sumber data
+Create database with PostgreSQL for Creating a Wide Table in a Logistics Company:
+
+This project aims to assist a logistics company in optimizing their operational data management through the creation of a "wide table" using PostgreSQL. The wide table will merge essential information such as shipments, warehouses, available goods, delivery times, and customer data into a more integrated entity. This will facilitate data analysis, enable trend identification, and improve decision-making concerning operational efficiency and customer satisfaction.
+
+The project will utilize PostgreSQL as the database management system, combining the strengths of a relational database system with the flexibility of handling complex wide tables. Query optimization and indexing will also be implemented to ensure the database's performance remains fast and responsive, even with large and intricate logistics data. As a result, the logistics company is expected to enhance operational efficiency and improve customer service quality while gaining better insights for timely and strategic decision-making. 
 
 ## Table of Contents
 
