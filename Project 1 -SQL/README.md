@@ -14,7 +14,7 @@ Membuat widetable untuk user berdasarkan dari berbagai sumber data
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## Create-Table-Location
 
 Provide step-by-step instructions on how to install your project and get it running.
 
